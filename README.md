@@ -9,6 +9,7 @@ Une fois les nodes_module installés grâce à cette commande exécutez npm star
 
 Pour jouer sans avoir a cloner le Git :
 
+https://taptaupe-fafnir.netlify.app
 
 Voici la maquette réaliser avant la création du jeu faite avec figma:
 
